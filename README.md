@@ -1,5 +1,5 @@
 # APB-Protocol-Project-
-APB master with two slaves read and write operation
+APB master with two slaves that does read and write operation
 
 Schematic of this project can be seen in the following figure:
 ![](https://github.com/WazaAbdulkadir/APB-Protocol-Project-/blob/main/image/yongatek%20.png)
